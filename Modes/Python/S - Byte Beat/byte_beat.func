@@ -1,0 +1,6 @@
+# Some comment
+# k1 * (1 - ain) +
+# k2 * sin(sqrt(x**2, y**2)) +
+# k3 * sin((x - 0.5) * (y - 0.5) * mod(t, 5000))
+
+sin(x % y) ** sin(y / x)

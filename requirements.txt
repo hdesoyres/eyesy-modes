@@ -1,0 +1,4 @@
+Pillow==6.2.2
+pygame==1.9.3
+numpy==1.12.1
+pyalsaaudio==0.9.0
